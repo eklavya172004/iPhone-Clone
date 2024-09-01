@@ -53,7 +53,7 @@ const ModelSelect = () => {
         })
     
   return (
-    <section className='common-padding'>
+    <section className='common-padding hidden sm:block'>
         <div className='screen-max-width'>
                 <h1 className='section-heading' id='heading'>
                         Take a closer look.
